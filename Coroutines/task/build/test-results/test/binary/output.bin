@@ -1,0 +1,35 @@
+<340 [Test worker] INFO  Contributors - org: loaded 3 repos
+F346 [Test worker] INFO  Contributors - repo-1: loaded 2 contributors
+F346 [Test worker] INFO  Contributors - repo-2: loaded 2 contributors
+F348 [Test worker] INFO  Contributors - repo-3: loaded 2 contributors
+9425 [Thread-3] INFO  Contributors - org: loaded 3 repos
+C426 [Thread-3] INFO  Contributors - repo-1: loaded 2 contributors
+C427 [Thread-3] INFO  Contributors - repo-2: loaded 2 contributors
+C427 [Thread-3] INFO  Contributors - repo-3: loaded 2 contributors
+=1459 [Test worker] INFO  Contributors - org: loaded 3 repos
+G1461 [Test worker] INFO  Contributors - repo-1: loaded 2 contributors
+G1462 [Test worker] INFO  Contributors - repo-2: loaded 2 contributors
+G1462 [Test worker] INFO  Contributors - repo-3: loaded 2 contributors
+
+	J1524 [Test worker @coroutine#2] INFO  Contributors - org: loaded 3 repos
+
+	T1525 [Test worker @coroutine#2] INFO  Contributors - repo-1: loaded 2 contributors
+
+	T1525 [Test worker @coroutine#2] INFO  Contributors - repo-2: loaded 2 contributors
+
+	T1525 [Test worker @coroutine#2] INFO  Contributors - repo-3: loaded 2 contributors
+J1538 [Test worker @coroutine#3] INFO  Contributors - org: loaded 3 repos
+R1544 [Test worker @coroutine#4] INFO  Contributors - starting loading for repo-1
+R1544 [Test worker @coroutine#5] INFO  Contributors - starting loading for repo-2
+R1545 [Test worker @coroutine#6] INFO  Contributors - starting loading for repo-3
+T1545 [Test worker @coroutine#6] INFO  Contributors - repo-3: loaded 2 contributors
+T1545 [Test worker @coroutine#4] INFO  Contributors - repo-1: loaded 2 contributors
+T1545 [Test worker @coroutine#5] INFO  Contributors - repo-2: loaded 2 contributors
+J1551 [Test worker @coroutine#7] INFO  Contributors - org: loaded 3 repos
+T1551 [Test worker @coroutine#7] INFO  Contributors - repo-1: loaded 2 contributors
+T1552 [Test worker @coroutine#7] INFO  Contributors - repo-2: loaded 2 contributors
+T1552 [Test worker @coroutine#7] INFO  Contributors - repo-3: loaded 2 contributors
+J1557 [Test worker @coroutine#8] INFO  Contributors - org: loaded 3 repos
+U1561 [Test worker @coroutine#11] INFO  Contributors - repo-3: loaded 2 contributors
+T1561 [Test worker @coroutine#9] INFO  Contributors - repo-1: loaded 2 contributors
+U1562 [Test worker @coroutine#10] INFO  Contributors - repo-2: loaded 2 contributors
